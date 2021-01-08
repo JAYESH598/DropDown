@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22336" started-at="2021-01-08T13:32:45Z" finished-at="2021-01-08T13:33:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22336" started-at="2021-01-08T13:32:45Z" finished-at="2021-01-08T13:33:08Z">
+      <class name="com.dropdown1.DropDown1Test">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.dropdown1.DropDown1Test@1bce4f0a]" name="test1" is-config="true" duration-ms="13179" started-at="2021-01-08T13:32:45Z" finished-at="2021-01-08T13:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.dropdown1.DropDown1Test@1bce4f0a]" name="test2" duration-ms="6793" started-at="2021-01-08T13:32:59Z" finished-at="2021-01-08T13:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="broWser()[pri:0, instance:com.dropdown1.DropDown1Test@1bce4f0a]" name="broWser" is-config="true" duration-ms="2266" started-at="2021-01-08T13:33:05Z" finished-at="2021-01-08T13:33:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broWser -->
+      </class> <!-- com.dropdown1.DropDown1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
